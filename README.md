@@ -36,7 +36,7 @@ All five required problems were successfully submitted on HackerRank.
 
 ### Dynamic Array
 
-![Dynamic Array](./dynamic-array.png)
+![Dynamic Array](./dynamic%20-array.png)
 
 ### Time Conversion
 
