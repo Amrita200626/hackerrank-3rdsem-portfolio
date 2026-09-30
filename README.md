@@ -30,6 +30,26 @@ This repository contains my solutions for the HackerRank algorithmic problem-sol
 
 All five required problems were successfully submitted on HackerRank.
 
+### Diagonal Difference
+
+![Diagonal Difference](./Diagonal-Difference.png)
+
+### Dynamic Array
+
+![Dynamic Array](./dynamic-array.png)
+
+### Time Conversion
+
+![Time Conversion](./time-conversion.png)
+
+### Compare the Triplets
+
+![Compare the Triplets](./compare-the-triplets.png)
+
+### Sparse Arrays
+
+![Sparse Arrays](./sparse-array.png)
+
 ## Skills Practiced
 
 - C Programming
